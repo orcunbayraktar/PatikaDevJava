@@ -21,24 +21,4 @@ public class KdvCalculation {
         System.out.printf("\nUrunuzun KDVsi : %.2f\n", productKdvPrice);
 
     }
-
-    public static class HitToAction {
-        public static void main(String[] args) {
-            double hit;
-
-            Scanner scn=new Scanner(System.in);
-            System.out.print("Havadaki sıcalik durumunu giriniz");
-            hit=scn.nextDouble();
-
-            if (hit>25)
-                System.out.println("Yüzmeye gidebilirsin");
-            else if (hit>=15)
-                System.out.println("Piknik yapabilirsin");
-            else if (hit >= 5)
-                System.out.println("Sinemaya gidebilirsin");
-            else
-                System.out.println("Kayak yapabilirsin");
-
-        }
-    }
 }
