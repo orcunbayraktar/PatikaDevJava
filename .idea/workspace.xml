@@ -4,87 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PatikaDevJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxingMachs/Fighters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxingMachs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxingMachs/Match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Academician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Assistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Computing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Lecturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Memur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/SecurityGuard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/ArrayMaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/ArraysAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/DiziPointerKavrami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/LoopEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/LoopNegativeOddNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/LoopStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/MatrixMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/SumNumbersOfDigrit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculation/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalaryCalculation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ArrayAgainNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ArrayTranspose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/BmiCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/ChineseZodiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/CircleAreaCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/FibonacciLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/GreenGrocerBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/LoopStarsReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/MinMaxInputLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/PlanePriceTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/PrimeNumber1_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/RecursiveExponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/RecursivePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/RecursivePrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArrayDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArrayNearNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArrayPrintStarsB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArraysHarmonic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/CalculatorBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ClassLateStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/EbobEkok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ExponentialNumbersLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/FindingHoroscope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/GradePointAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/HarmonicNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/HitToAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/KdvCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Loop3_4Avg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/LoopPow4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/LoopStars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/PalidromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/PalidromeStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/PalindromeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/RecursiveFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/SortingThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/TriangleAreaCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/UserPsBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticTopic/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticTopic/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticTopic/MainStatic.java" afterDir="false" />
-    </list>
+    <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,6 +124,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673882607915</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1673891558050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673891558050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
