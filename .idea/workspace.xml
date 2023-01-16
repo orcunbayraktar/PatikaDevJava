@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PatikaDevJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxingMachs/Fighters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxingMachs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxingMachs/Match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Academician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Assistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Computing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/Memur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceUniversityEmployees/SecurityGuard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/ArrayMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/ArraysAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/DiziPointerKavrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/LoopEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/LoopNegativeOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/LoopStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/MatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/SumNumbersOfDigrit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalaryCalculation/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalaryCalculation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentInformationSystemBasic/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ArrayAgainNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ArrayTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/BmiCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/ChineseZodiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/CircleAreaCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/FibonacciLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/GreenGrocerBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/LoopStarsReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/MinMaxInputLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/PlanePriceTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/PrimeNumber1_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/RecursiveExponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/RecursivePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/RecursivePrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArrayDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArrayNearNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArrayPrintStarsB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArraysHarmonic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/CalculatorBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ClassLateStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/EbobEkok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ExponentialNumbersLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/FindingHoroscope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/GradePointAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/HarmonicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/HitToAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/KdvCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Loop3_4Avg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/LoopPow4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/LoopStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/PalidromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/PalidromeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/PalindromeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/SortingThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/TriangleAreaCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/UserPsBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticTopic/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticTopic/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticTopic/MainStatic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPiQuGbCAfXolDx19gVbgK5GWI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/orcun/IdeaProjects/Java102"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LoopNegativeOddNumber">
+    <configuration name="ArraysAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice.ArraysAvg" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice.LoopEvenNumber" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopNegativeOddNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice.LoopNegativeOddNumber" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.PalindromeNumbers" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumNumbersOfDigrit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice.SumNumbersOfDigrit" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopNegativeOddNumber" />
+        <item itemvalue="Application.SumNumbersOfDigrit" />
+        <item itemvalue="Application.LoopEvenNumber" />
+        <item itemvalue="Application.ArraysAvg" />
+        <item itemvalue="Application.PalindromeNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="" />
+      <created>1673882607915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673882607915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
