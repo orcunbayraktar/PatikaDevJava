@@ -1,4 +1,4 @@
-package practice;
+package practive;
 
 public class ArrayPrintStarsB {
     public static void main(String[] args) {

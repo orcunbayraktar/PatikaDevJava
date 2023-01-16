@@ -1,4 +1,4 @@
-package epi1;
+package practive;
 
 import java.util.Scanner;
 

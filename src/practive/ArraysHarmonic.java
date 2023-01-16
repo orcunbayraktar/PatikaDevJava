@@ -1,4 +1,4 @@
-package practice;
+package practive;
 
 public class ArraysHarmonic {
     public static void main(String[] args) {

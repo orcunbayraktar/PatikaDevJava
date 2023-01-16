@@ -1,4 +1,4 @@
-package practice;
+package practive;
 
 public class PalidromeStrings {
     public static void main(String[] args) {

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="first commit" />
+    <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +41,13 @@
     "last_opened_file_path": "C:/Users/orcun/IdeaProjects/Java102"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LoopNegativeOddNumber">
-    <configuration name="ArraysAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractice.ArraysAvg" />
+  <component name="RunManager" selected="Application.practive.GradePointAvg">
+    <configuration name="GradePointAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="epi1.GradePointAvg" />
       <module name="PatikaDevJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractice.*" />
+          <option name="PATTERN" value="epi1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,19 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.PalindromeNumbers" />
-      <module name="PatikaDevJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumNumbersOfDigrit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyPractice.SumNumbersOfDigrit" />
       <module name="PatikaDevJava" />
@@ -105,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="practive.GradePointAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practive.GradePointAvg" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.practive.GradePointAvg" />
+        <item itemvalue="Application.GradePointAvg" />
         <item itemvalue="Application.LoopNegativeOddNumber" />
         <item itemvalue="Application.SumNumbersOfDigrit" />
         <item itemvalue="Application.LoopEvenNumber" />
-        <item itemvalue="Application.ArraysAvg" />
-        <item itemvalue="Application.PalindromeNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673891558050</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1673891708469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673891708469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

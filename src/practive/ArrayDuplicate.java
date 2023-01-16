@@ -1,4 +1,4 @@
-package practice;
+package practive;
 
 public class ArrayDuplicate {
     public static void main(String[] args) {

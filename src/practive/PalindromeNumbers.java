@@ -1,4 +1,4 @@
-package practice;
+package practive;
 
 import java.util.Scanner;
 //basamak sayılı yapımı
