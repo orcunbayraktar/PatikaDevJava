@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/MyPractice/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practive/CalculationEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MineSweeperGame/MineSweeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MineSweeperGame/MineSweeperMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/orcun/IdeaProjects/Java102&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculationEven">
+  <component name="RunManager" selected="Application.MineSweeperMain">
     <configuration name="ArrayAgainNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.ArrayAgainNumber" />
       <module name="PatikaDevJava" />
@@ -59,19 +59,6 @@
     </configuration>
     <configuration name="ArrayDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practive.ArrayDuplicate" />
-      <module name="PatikaDevJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayPrintStarsB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practive.ArrayPrintStarsB" />
       <module name="PatikaDevJava" />
       <extension name="coverage">
         <pattern>
@@ -109,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MineSweeperMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MineSweeperGame.MineSweeperMain" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MineSweeperGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MineSweeperMain" />
         <item itemvalue="Application.CalculationEven" />
         <item itemvalue="Application.ArrayAgainNumber" />
         <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.ArrayDuplicate" />
-        <item itemvalue="Application.ArrayPrintStarsB" />
       </list>
     </recent_temporary>
   </component>
