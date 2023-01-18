@@ -2,9 +2,8 @@ package MyPractice;
 
 public class Main {
     public static void main(String[] args) {
-        int[][] numbers;
-        numbers = new int[3][];
+        int a = 4;
 
-        System.out.println(numbers[0][1]);
+        System.out.print((a >> 1)+(a << 2) );
     }
 }

@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6289e755-d7a9-4581-a882-4c61a19a9bc4" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/MineSweeperGame/MineSweeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MineSweeperGame/MineSweeperMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practive/AtmBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practive/CalcultationOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practive/NumberGuess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +45,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/orcun/IdeaProjects/Java102&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MineSweeperMain">
-    <configuration name="ArrayAgainNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.ArrayAgainNumber" />
-      <module name="PatikaDevJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practive.ArrayDuplicate" />
+  <component name="RunManager" selected="Application.NumberGuess">
+    <configuration name="AtmBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practive.AtmBasic" />
       <module name="PatikaDevJava" />
       <extension name="coverage">
         <pattern>
@@ -70,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.ArraySorting" />
+    <configuration name="CalcultationOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practive.CalcultationOperation" />
       <module name="PatikaDevJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="practive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practive.CalculationEven" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice.Main" />
       <module name="PatikaDevJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practive.*" />
+          <option name="PATTERN" value="MyPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practive.NumberGuess" />
+      <module name="PatikaDevJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberGuess" />
+        <item itemvalue="Application.CalcultationOperation" />
+        <item itemvalue="Application.AtmBasic" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MineSweeperMain" />
-        <item itemvalue="Application.CalculationEven" />
-        <item itemvalue="Application.ArrayAgainNumber" />
-        <item itemvalue="Application.ArraySorting" />
-        <item itemvalue="Application.ArrayDuplicate" />
       </list>
     </recent_temporary>
   </component>
